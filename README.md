@@ -12,7 +12,7 @@
 ## Note
 
 * usage: `./run.sh`
-* tested with Java 19, Gradle wrapper 8.1
+* tested with Java 21, Gradle wrapper 8.7
 * `Worker` objects process ranges of (a,b,c)
 * `Calculator` computes/caches factorials
 * `Reporter` logs hits
